@@ -6,4 +6,4 @@ Al no poder pasarles el backend completo porque hay muchas cosas que hay que emp
 https://user-images.githubusercontent.com/83453393/136719176-5d7c4933-b04f-4e9b-bb9c-653503e4ca16.mp4
 
 
-El objetivo final de este script es poder hacerlo una recurrent task en el servidor y que cada media hora recorra los productos que los usuarios subieron a la base de datos, y que recorra todos estos productos con el precio deseado del usuario y lo compare al del momento, si el producto bajo su precio se le enviaria un mail como mas o menos se ve aca. 
+El objetivo final de este script es poder hacerlo una recurrent task en el servidor y que cada media hora recorra los productos que los usuarios subieron a la base de datos, y que compare el precio deseado del usuario con el del momento, si el producto bajo su precio se le enviaria un mail como mas o menos se ve aca. 
